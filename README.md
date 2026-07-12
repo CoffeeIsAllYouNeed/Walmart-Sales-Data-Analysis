@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <em>A Jupyter notebook for Walmart Sales data analysis.</em>
+  <strong>A Jupyter notebook for Walmart Sales data analysis.</strong>
 </p>
